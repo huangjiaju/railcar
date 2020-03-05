@@ -1,0 +1,7 @@
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj
+.build/
+Dependencies/
+.DS_Store
